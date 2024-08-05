@@ -1,0 +1,11 @@
+{
+    "status": 1,
+    "version": 12100,
+    "message": "nigga",
+    "sendChecksum": false,
+    "checksum": {
+        "git_shortrev_hash": "7b0f30f2b6bc536c6a21eb3bc5cd9f0fac894478",
+        "salt": "0x14341ee28e3cb4f9f294f311e15b8394"
+    },
+    "whitelistedCommunities": null
+}
